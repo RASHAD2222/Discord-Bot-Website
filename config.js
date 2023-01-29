@@ -59,7 +59,7 @@ const config = {
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
   discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  youtubeLink: "https://www.youtube.com/@Egyking.2006/featured",
 };
 
 export default config;
