@@ -57,7 +57,7 @@ const config = {
   githubLink: "https://github.com/RASHAD2222",
   twitterLink: "https://twitter.com",
   mediumLink: "https://medium.com/",
-  facebookLink: "https://facebook.com",
+  facebookLink: "https://www.facebook.com/profile.php?id=100026530394863",
   discordLink: "https://discord.gg/bhkB7Y8VB7",
   youtubeLink: "https://www.youtube.com/@Egyking.2006/featured",
 };
