@@ -58,7 +58,7 @@ const config = {
   twitterLink: "https://twitter.com",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
+  discordLink: "https://discord.gg/bhkB7Y8VB7",
   youtubeLink: "https://www.youtube.com/@Egyking.2006/featured",
 };
 
